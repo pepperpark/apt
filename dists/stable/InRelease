@@ -5,24 +5,24 @@ Origin: VentureNamics
 Label: VentureNamics
 Suite: stable
 Codename: stable
-Date: Thu, 05 Feb 2026 18:14:02 +0000
+Date: Thu, 05 Feb 2026 18:49:58 +0000
 Architectures: amd64 arm64
 Components: main
 Description: VentureNamics APT Repository
 MD5Sum:
- fa4365d8483fb746b58c52df1d7e9f1e 463 main/binary-amd64/Packages
- d23504ab126c5700d9e2764beae1715f 362 main/binary-amd64/Packages.gz
- c6f77e8d46d82e2587ad29645f5d33aa 463 main/binary-arm64/Packages
- 55b551d02c7cacb6cd699946d5ec4eb0 361 main/binary-arm64/Packages.gz
+ 13360e9e9087d1bfeba9f5f366e0a6f3 463 main/binary-amd64/Packages
+ 6577b0c24b4d8485bec2107e19b0a85a 364 main/binary-amd64/Packages.gz
+ 8e8d71edb8e726a64c5bd9c12a69ddcc 463 main/binary-arm64/Packages
+ 0d9c6c71442c932baba382781a54017c 361 main/binary-arm64/Packages.gz
 SHA256:
- e9b7fb9738b350db1910da0cf7e91d263f8ef99f4eae3494897023572b9ba6a0 463 main/binary-amd64/Packages
- c607f88ecd22800378a06bf96226cf6452b1ef78e85e8b338a823c1c4be9349e 362 main/binary-amd64/Packages.gz
- 9bd05badd8acd5733e57f88fcfce20434c8ffe5e2fe2ee997af32eecfdf997c8 463 main/binary-arm64/Packages
- f48807646100392d0ceb514114c3dd43a6d3c98b0f793560970d66fef7b017a7 361 main/binary-arm64/Packages.gz
+ a0807a5150de66ac3c418270b36dfb75fc44f2892f99a547644f9f8cd891fc6e 463 main/binary-amd64/Packages
+ 8524a4fc1b97d67fb0ddda08e792c9d61d7d19ec169808ed3d90ba20a3797bc9 364 main/binary-amd64/Packages.gz
+ bd051ffa7300602bd1c6efe7716f70927990bb286f20e21d7e101bf9516bbffc 463 main/binary-arm64/Packages
+ b32f9434a000e84ded94c669f4bed6e7d2977a1696c90b904b5065965626a840 361 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQ7p1cVs2HKBe3qrGYzl0d5/suEBAUCaYTd6gAKCRAzl0d5/suE
-BMgXAP9VbuCkWkZuhxTHPZZh5ICKxiCPOEILJpwaYv6mQIaKzQD/eHatLghOE8SO
-UlHZ9ui5btPnOiP32mQFAyT5Z3gKegU=
-=SEnE
+iHUEARYKAB0WIQQ7p1cVs2HKBe3qrGYzl0d5/suEBAUCaYTmVgAKCRAzl0d5/suE
+BNztAQDxGUqExB4qqDAdjsJO07/Sf3CIpQ84xQ8a5qZ/gguMzAEAovcBYpfqOuhg
+ATTqpZt5l6jTY+0/JCUe5byWM0M0IQc=
+=21Rw
 -----END PGP SIGNATURE-----
