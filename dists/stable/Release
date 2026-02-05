@@ -2,16 +2,17 @@ Origin: pepperpark
 Label: pepperpark
 Suite: stable
 Codename: stable
+Date: Thu, 05 Feb 2026 15:56:29 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Pepperpark APT Repository
 MD5Sum:
- 2baf572e499090effc6c9db3b49b0c92 475 main/binary-amd64/Packages
- cbfcd2e6c3ca8a4213d76a489a672dd0 369 main/binary-amd64/Packages.gz
- 35b2efdd2a5aa94285b9e457028e0a22 475 main/binary-arm64/Packages
- 65d4c34be56db714304e44c685b4c981 369 main/binary-arm64/Packages.gz
+ bcb0676ef390b71445fc5a7e6992d72e 475 main/binary-amd64/Packages
+ ebf887672039c782baba1b96238a8120 369 main/binary-amd64/Packages.gz
+ 4ffb5d318834ae81d368afa954445a78 475 main/binary-arm64/Packages
+ 8c81db86e237178f8763551c301ffb6e 369 main/binary-arm64/Packages.gz
 SHA256:
- c094d2d4774a65be29f6521f35d8bc1de87f9027fa888b0b3cba138098cd38ce 475 main/binary-amd64/Packages
- 21a7abb7d5f925e1eb3c13884b027dd8eb716ddc11e8936109fc0d11b7beb138 369 main/binary-amd64/Packages.gz
- f1e44fc9706b5db947d884d7537abf59d4ebe07803392a1ea5ed8f6e23ce5e52 475 main/binary-arm64/Packages
- 4597d917dcb897ddfcfd2b4c8ceb54a337df1d651df278bed53b60632fe63703 369 main/binary-arm64/Packages.gz
+ 487f25afac299b961b9fb73aae9b1c8aa9db673c4daddfbc44168c38a608cb4a 475 main/binary-amd64/Packages
+ 41cfc43b522888c0056ef7c02b93dea7259d2e2d415458ba1598c9bb2b0e2c35 369 main/binary-amd64/Packages.gz
+ 619b32874a83513c7e032d115d9e3e07015c0bdd73fe8e75b346927aceac74eb 475 main/binary-arm64/Packages
+ 81c12d28796445c06d420436a25c3e98539d209dd426c2a2474ca962cac1939f 369 main/binary-arm64/Packages.gz
