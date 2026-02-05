@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: pepperpark
+Label: pepperpark
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Pepperpark APT Repository
+MD5Sum:
+ 2baf572e499090effc6c9db3b49b0c92 475 main/binary-amd64/Packages
+ cbfcd2e6c3ca8a4213d76a489a672dd0 369 main/binary-amd64/Packages.gz
+ 35b2efdd2a5aa94285b9e457028e0a22 475 main/binary-arm64/Packages
+ 65d4c34be56db714304e44c685b4c981 369 main/binary-arm64/Packages.gz
+SHA256:
+ c094d2d4774a65be29f6521f35d8bc1de87f9027fa888b0b3cba138098cd38ce 475 main/binary-amd64/Packages
+ 21a7abb7d5f925e1eb3c13884b027dd8eb716ddc11e8936109fc0d11b7beb138 369 main/binary-amd64/Packages.gz
+ f1e44fc9706b5db947d884d7537abf59d4ebe07803392a1ea5ed8f6e23ce5e52 475 main/binary-arm64/Packages
+ 4597d917dcb897ddfcfd2b4c8ceb54a337df1d651df278bed53b60632fe63703 369 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQ7p1cVs2HKBe3qrGYzl0d5/suEBAUCaYS4eAAKCRAzl0d5/suE
+BCdiAP90AZNqVaH/C74cHadWo58cL+dru5qD9kLk2Id6Zw29oQEA5zI4aSPnPv6O
+5a42An+smofFYLblp+UbncLdV80svAg=
+=tMdw
+-----END PGP SIGNATURE-----
