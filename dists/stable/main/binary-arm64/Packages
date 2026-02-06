@@ -4,10 +4,10 @@ Architecture: arm64
 Maintainer: support@prev.sh
 Installed-Size: 7872
 Filename: pool/main/prev_0.2.1_arm64.deb
-Size: 3084340
-MD5sum: b517c914e64e56b60f97d0f5c73ad1bc
-SHA1: e259ef70ccc138627b337a783a4ecba817e93769
-SHA256: d1eae25a42792fbbb614f80c833fb14dbf6d4c8acaf297e607517aa63dbb1e06
+Size: 3084418
+MD5sum: 8e14d81cf8b205673f6b1110c058eae1
+SHA1: 0a96d7d447ead44135e3dc88ba13a21257be2e62
+SHA256: ecfacd22b55323c8085c6f2c7c7feb949dee015ae9c8f537a30f54de11b83637
 Section: devel
 Priority: optional
 Homepage: https://prev.sh
